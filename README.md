@@ -11,3 +11,7 @@
   The interface looks like the :-
 </h4>
 <img src ="recipeinterface.png" >
+<h4>
+  The webpage after adding :-
+</h4>
+<img src = "recipeall.png">
