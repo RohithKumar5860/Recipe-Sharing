@@ -10,4 +10,4 @@
 <h4>
   The interface looks like the :-
 </h4>
-<img src ="" >
+<img src ="recipeinterface.png" >
